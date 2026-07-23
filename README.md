@@ -74,7 +74,7 @@ Current focus:
 
 ## Repository Owner
 
-**Saawuan Emmanuel**
+**Saawuan Terwase Emmanuel**
 
 Automation Engineer
 
